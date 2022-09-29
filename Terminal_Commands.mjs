@@ -97,7 +97,10 @@ npm install -S yup
 
 
 %%%%%%%%%% TypeScript Commands %%%%%%%%%%%%
+	
 npm install typescript --save-dev
+
+npm i -g typescript
 
 %%%%%%%%%% Git Commands %%%%%%%%%%%%
 %%%%%%%%%% Git Commands %%%%%%%%%%%%
