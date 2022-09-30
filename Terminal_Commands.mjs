@@ -1,4 +1,4 @@
-if you see old commands don't tell me fork it and feel free to contribute in this OpenSource Project
+// if you see old commands don't tell me fork it and feel free to contribute in this OpenSource Project
 $$$$$$$$$$  COMMANDS    $$$$$$$$$$$$$$$
 cd
 dir or ls (to view files in directories)
@@ -32,7 +32,17 @@ npm run build   (after work make build folder)
 
 
 %%%%%%%%%% Node Commands %%%%%%%%%%%%
+
+node -v
+
 node fileKaName
+
+
+
+nvm install (version) like (12.16.3)
+phir 
+nvm use 12.16.3
+
 
 %%%%%%%%%% ExpressJS Commands %%%%%%%%%%%%
 
@@ -101,6 +111,10 @@ npm install -S yup
 npm install typescript --save-dev
 
 npm i -g typescript
+
+tsc (file ka nam)eg. tsc index.ts
+
+tsc --init (to make ts.config)
 
 %%%%%%%%%% Git Commands %%%%%%%%%%%%
 %%%%%%%%%% Git Commands %%%%%%%%%%%%
