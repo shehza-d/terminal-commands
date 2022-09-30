@@ -69,7 +69,7 @@ firebase --help
 
 %%%%%%%%%% Netlify Commands %%%%%%%%%%%%
 
-npm install netlify-cli -g
+npm install netlify-cli -g     (first time only)
 
 netlify login (first time only)
 
