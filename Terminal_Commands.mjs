@@ -46,7 +46,7 @@ nvm use 12.16.3
 
 %%%%%%%%%% ExpressJS Commands %%%%%%%%%%%%
 
-npm init  (to create package.json)
+npm init  (to create package.json)  -y for default settings
 
 npm install express
 
