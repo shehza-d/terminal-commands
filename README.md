@@ -8,16 +8,19 @@ If you to contribute with a loooot of commands make a new .txt file
 
 // if you see old commands don't tell me fork it and feel free to contribute in this OpenSource Project
 $$$$$$$$$$  COMMANDS    $$$$$$$$$$$$$$$
+
 cd
 dir or ls (to view files in directories)
 
 %%%%%%%%%% Git Commands %%%%%%%%%%%%
-
+```
 git add *
-
+```
+```
 git commit -m "apna comment"
-
+```
 git push origin main 
+```
 
 (
 	first time 
