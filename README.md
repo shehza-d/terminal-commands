@@ -1,5 +1,5 @@
-# terminal-commands
-## All terminal commands in one place
+# Terminal-Commands
+## All basic terminal commands in one place
 
 You can contribute by making a readme with commands from .js file
 If you to contribute with a loooot of commands make a new .txt file 
@@ -7,7 +7,8 @@ If you to contribute with a loooot of commands make a new .txt file
 
 
 // if you see old commands don't tell me fork it and feel free to contribute in this OpenSource Project
-$$$$$$$$$$  COMMANDS    $$$$$$$$$$$$$$$
+
+##  COMMANDS 
 
 cd
 dir or ls (to view files in directories)
@@ -18,6 +19,7 @@ git add *
 ```
 ```
 git commit -m "apna comment"
+```
 ```
 git push origin main 
 ```
@@ -77,33 +79,34 @@ firebase deploy   [(--only hosting),(--only database),(--only storage),(--only f
 
 firebase --help
 
-%%%%%%%%%% Netlify Commands %%%%%%%%%%%%
-
-npm install netlify-cli -g     (first time only)
-
+## Netlify Commands
+```
+npm install netlify-cli -g 
+```
+(first time only)
+```
 netlify login (first time only)
-
+```
 !(netlify init)
-
+```
 netlify deploy --prod
+```
 
+    netlify status
 
-netlify status
-
-netlify help
-
+    netlify help
+```
 %%%%%%%%%% Formik i Commands %%%%%%%%%%%%
-
-`npm install formik --save`
-
+```
+npm install formik --save`
+```
 %%%%%%%%%% yup i Commands %%%%%%%%%%%%
-`
+```
 npm i yup
-`
+```
+```
 npm install -S yup
-
-%%%%%%%%%% Git Commands %%%%%%%%%%%%
-
+```
 
 
 // npm init   (to initinil node project)
@@ -113,18 +116,22 @@ npm install -S yup
 // 
 // 
 
-%%%%%%%%%% MongoDB Commands %%%%%%%%%%%%
-	
+## MongoDB Commands
+```
 npm i mongoose
+```
 
 
-
-%%%%%%%%%% TypeScript Commands %%%%%%%%%%%%
-	
+## TypeScript Commands 
+```
 npm install typescript --save-dev
-
+```
+```
 npm i -g typescript
-
+```
+```
 tsc (file ka nam)eg. tsc index.ts
-
+```
+```
 tsc --init (to make ts.config)
+```
