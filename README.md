@@ -11,6 +11,9 @@ if you see old commands don't tell me fork it and feel free to contribute in thi
 
 ## Git Commands
 ```
+git --version
+```
+```
 git add *
 
 git commit -m "apna comment"
@@ -22,7 +25,9 @@ first time
 
 	git config --global user.name "apna nam”
 	git config --global user.email "apna email”
-
+```
+git status
+```
 
 <hr>
 
@@ -44,7 +49,7 @@ npm start
 
 ## Node Commands
 ```
-node -v
+node --version
 ```
 ```
 node fileKaName
@@ -91,6 +96,9 @@ firebase deploy   [(--only hosting),(--only database),(--only storage),(--only f
 
 ```
 firebase --help
+```
+```
+netlify logout
 ```
 ## Netlify Commands
 ```
