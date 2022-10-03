@@ -103,6 +103,9 @@ npm install -S yup
 // 
 // 
 
+%%%%%%%%%% MongoDB Commands %%%%%%%%%%%%
+	
+npm i mongoose
 
 
 
