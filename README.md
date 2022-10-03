@@ -5,22 +5,19 @@ You can contribute by making a readme with commands from .js file
 If you to contribute with a loooot of commands make a new .txt file 
 
 
+if you see old commands don't tell me fork it and feel free to contribute in this OpenSource Project
 
-// if you see old commands don't tell me fork it and feel free to contribute in this OpenSource Project
+###  COMMANDS 
 
-##  COMMANDS 
-
-cd
+1. cd
 dir or ls (to view files in directories)
 
-%%%%%%%%%% Git Commands %%%%%%%%%%%%
+## Git Commands
 ```
 git add *
-```
-```
+
 git commit -m "apna comment"
-```
-```
+
 git push origin main 
 ```
 
@@ -56,29 +53,38 @@ phir
 nvm use 12.16.3
 
 
-%%%%%%%%%% ExpressJS Commands %%%%%%%%%%%%
+## ExpressJS Commands
+```
+npm init
+```
+(to create package.json)  -y for default settings
 
-npm init  (to create package.json)  -y for default settings
-
-npm install express
+	npm install express
 
 
+<br>
 
-%%%%%%%%%% FireBase Commands %%%%%%%%%%%%
+## FireBase Commands
+```
+npm install -g firebase-tools
+```
+(install CLI(also use this command to update CLI))
 
-npm install -g firebase-tools (install CLI(also use this command to update CLI))
+	firebase login
 
-firebase login  (first time only)
+(first time only)
 
-firebase init (initilize project(apne project ma run karna ye))
+	firebase init
 
-firebase deploy --only hosting
+(initilize project(apne project ma run karna ye))
+
+	firebase deploy --only hosting
 
 firebase deploy   [(--only hosting),(--only database),(--only storage),(--only firestore),(--only functions)]
 
-
+```
 firebase --help
-
+```
 ## Netlify Commands
 ```
 npm install netlify-cli -g 
