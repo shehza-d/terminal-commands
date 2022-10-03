@@ -150,6 +150,17 @@ tsc (file ka nam)eg. tsc index.ts
 tsc --init (to make ts.config)
 ```
 
+
+## ( React + TypeScript ) Command 
+```
+npx create-react-app app_name --template typescript 
+```
+
+## ( React + Redux + TypeScript ) Command
+```
+npx create-react-app app_name --template redux-typescript 
+```
+
 <hr>
 
 ## Linux COMMANDS 
