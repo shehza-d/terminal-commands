@@ -21,26 +21,30 @@ git commit -m "apna comment"
 git push origin main 
 ```
 
-(
-	first time 
+first time
+
 	git config --global user.name "apna nam”
 	git config --global user.email "apna email”
-)
-
-
-%%%%%%%%%% React Commands %%%%%%%%%%%%
-
-npx create-react-app myappname   (to create react project)
-
-npm start  (to start app)
-
-
-npm run build   (after work make build folder)
 
 
 
+## React Commands
+~~~
+npx create-react-app myappname
+~~~
+(to create react project)
+~~~
+npm start
+~~~
+(to start app)
 
-%%%%%%%%%% Node Commands %%%%%%%%%%%%
+	npm run build
+(this build a final folder run this after project is finished)
+
+
+<hr>
+
+## Node Commands
 
 node -v
 
