@@ -7,10 +7,7 @@ If you to contribute with a loooot of commands make a new .txt file
 
 if you see old commands don't tell me fork it and feel free to contribute in this OpenSource Project
 
-###  COMMANDS 
-
-1. cd
-dir or ls (to view files in directories)
+<hr>
 
 ## Git Commands
 ```
@@ -27,6 +24,7 @@ first time
 	git config --global user.email "apna email”
 
 
+<hr>
 
 ## React Commands
 ~~~
@@ -45,26 +43,31 @@ npm start
 <hr>
 
 ## Node Commands
-
+```
 node -v
-
+```
+```
 node fileKaName
+```
 
 
-
+```
 nvm install (version) like (12.16.3)
-phir 
+phir
+```
+```
 nvm use 12.16.3
-
+```
 
 ## ExpressJS Commands
 ```
 npm init
 ```
-(to create package.json)  -y for default settings
+(to initinil node project is easy words to create package.json)  -y for default settings
 
 	npm install express
 
+(to initilize express project express ky liye)
 
 <br>
 
@@ -103,14 +106,14 @@ netlify deploy --prod
 ```
 
     netlify status
-
-    netlify help
 ```
-%%%%%%%%%% Formik i Commands %%%%%%%%%%%%
+netlify help
 ```
-npm install formik --save`
+## Formik i Commands
 ```
-%%%%%%%%%% yup i Commands %%%%%%%%%%%%
+npm install formik --save
+```
+## yup i Commands
 ```
 npm i yup
 ```
@@ -118,13 +121,6 @@ npm i yup
 npm install -S yup
 ```
 
-
-// npm init   (to initinil node project)
-// npm install express  (to initilize express project) express ky liye
-// 
-// 
-// 
-// 
 
 ## MongoDB Commands
 ```
@@ -145,3 +141,10 @@ tsc (file ka nam)eg. tsc index.ts
 ```
 tsc --init (to make ts.config)
 ```
+
+<hr>
+
+## Linux COMMANDS 
+
+1. cd
+dir or ls (to view files in directories)
