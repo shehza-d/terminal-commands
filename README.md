@@ -149,9 +149,6 @@ tsc (file ka nam)eg. tsc index.ts
 ```
 tsc --init (to make ts.config)
 ```
-
-
-## ( React + TypeScript ) Command 
 ```
 npx create-react-app app_name --template typescript 
 ```
@@ -167,3 +164,7 @@ npx create-react-app app_name --template redux-typescript
 
 1. cd
 dir or ls (to view files in directories)
+
+
+
+## 
