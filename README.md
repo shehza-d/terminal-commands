@@ -53,7 +53,10 @@ node --version
 node fileKaName
 ```
 
-
+```
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+```
+installing nvm
 ```
 nvm install (version) like (12.16.3)
 phir
