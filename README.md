@@ -42,6 +42,9 @@ npm start
 	npm run build
 (this build a final folder run this after project is finished)
 
+```
+npm i react-router-dom
+```
 
 <hr>
 
