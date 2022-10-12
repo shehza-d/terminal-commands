@@ -77,6 +77,9 @@ npm init
 	npm install express
 
 (to initilize express project express ky liye)
+```
+npm i cors
+```
 
 <br>
 
