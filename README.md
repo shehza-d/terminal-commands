@@ -45,7 +45,9 @@ npm start
 ```
 npm i react-router-dom
 ```
-
+```
+npm install react-icons --save
+```
 <hr>
 
 ## Node Commands
