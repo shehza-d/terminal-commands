@@ -14,15 +14,15 @@ git --version
 ```
 git add *
 
-git commit -m "apna comment"
+git commit -m "Pushing new Changes"
 
 git push origin main 
 ```
 
 first time
 
-	git config --global user.name "apna nam”
-	git config --global user.email "apna email”
+	git config --global user.name "Shehzad”
+	git config --global user.email "shehzaddiqbal@gmail.com”
 ```
 git status
 ```
