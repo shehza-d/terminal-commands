@@ -61,6 +61,9 @@ node fileKaName
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
+```
+npm i prompt-sync
+```
 installing nvm
 ```
 nvm install (version) like (12.16.3)
@@ -126,19 +129,6 @@ netlify deploy --prod
 ```
 netlify help
 ```
-## Formik i Commands
-```
-npm install formik --save
-```
-## yup i Commands
-```
-npm i yup
-```
-```
-npm install -S yup
-```
-
-
 ## MongoDB Commands
 ```
 npm i mongoose
@@ -166,7 +156,18 @@ npx create-react-app app_name --template typescript
 ```
 npx create-react-app app_name --template redux-typescript 
 ```
-
+## Important NPM Packages
+```
+npm i mongoose
+```
+<!-- Formik i Commands -->
+```
+npm install formik --save
+```
+<!-- ## yup i Commands -->
+```
+npm i yup
+```
 <hr>
 
 ## Linux COMMANDS 
