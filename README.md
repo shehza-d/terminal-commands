@@ -106,7 +106,7 @@ npm install -g firebase-tools
 
 firebase deploy   [(--only hosting),(--only database),(--only storage),(--only firestore),(--only functions)]
 
-```
+
 ```
 npm install firebase@9.12.1 --save
 ```
@@ -115,7 +115,7 @@ fireStore
 firebase --help
 ```
 ```
-netlify logout
+firebase logout
 ```
 ## Netlify Commands
 ```
@@ -133,6 +133,9 @@ netlify deploy --prod
     netlify status
 ```
 netlify help
+```
+```
+netlify logout
 ```
 ## MongoDB Commands
 ```
