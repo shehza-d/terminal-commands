@@ -6,16 +6,26 @@ You can contribute to this readme
 If you to contribute with a loooot of commands make a new .txt file / if you see old commands don't tell me fork it and feel free to contribute in this OpenSource Project..
 
 <hr>
-[Git Commands](## Git Commands)
-[React Commands](## React Commands)
+[Git Commands]()
 
-[Node Commands](## Node Commands)
+[React Commands](https://github.com/shehza-d/Terminal-Commands#react-commands)
 
-[## ExpressJS Commands](## ExpressJS Commands)
-[]()
-[]()
-[]()
+[Node Commands](https://github.com/shehza-d/Terminal-Commands#node-commands)
+
+[ExpressJS Commands](https://github.com/shehza-d/Terminal-Commands#expressjs-commands)
+
+[FireBase Commands](https://github.com/shehza-d/Terminal-Commands#firebase-commands)
+
+[Netlify Commands](https://github.com/shehza-d/Terminal-Commands#netlify-commands)
+
+[TypeScript Commands](https://github.com/shehza-d/Terminal-Commands#typescript-commands)
+
+[Important NPM Packages](https://github.com/shehza-d/Terminal-Commands#important-npm-packages)
+
+[Linux COMMANDS](https://github.com/shehza-d/Terminal-Commands#linux-commands)
+
 <hr>
+
 ## Git Commands
 
 ```
@@ -147,11 +157,10 @@ netlify help
 ```
 netlify logout
 ```
-## MongoDB Commands
+<!-- ## MongoDB Commands
 ```
 npm i mongoose
-```
-
+``` -->
 
 ## TypeScript Commands 
 ```
