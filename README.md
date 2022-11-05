@@ -6,7 +6,9 @@ You can contribute to this readme
 If you to contribute with a loooot of commands make a new .txt file / if you see old commands don't tell me fork it and feel free to contribute in this OpenSource Project..
 
 <hr>
-[Git Commands]()
+<p text-align="center">
+
+[Git Commands](https://github.com/shehza-d/Terminal-Commands#git-commands)
 
 [React Commands](https://github.com/shehza-d/Terminal-Commands#react-commands)
 
@@ -23,7 +25,7 @@ If you to contribute with a loooot of commands make a new .txt file / if you see
 [Important NPM Packages](https://github.com/shehza-d/Terminal-Commands#important-npm-packages)
 
 [Linux COMMANDS](https://github.com/shehza-d/Terminal-Commands#linux-commands)
-
+</p>
 <hr>
 
 ## Git Commands
