@@ -97,7 +97,7 @@ nvm use 12.16.3
 
 ## ExpressJS Commands
 ```
-npm init
+npm init -Y
 ```
 (to initinil node project is easy words to create package.json)  -y for default settings
 
@@ -126,7 +126,7 @@ npm install -g firebase-tools
 
 	firebase deploy --only hosting
 
-firebase deploy   [(--only hosting),(--only database),(--only storage),(--only firestore),(--only functions)]
+firebase deploy other options  [(--only hosting),(--only database),(--only storage),(--only firestore),(--only functions)]
 
 
 ```
@@ -145,8 +145,9 @@ npm install netlify-cli -g
 ```
 (first time only)
 ```
-netlify login (first time only)
+netlify login
 ```
+(first time only)
 !(netlify init)
 ```
 netlify deploy --prod
@@ -171,11 +172,13 @@ npm install typescript --save-dev
 ```
 npm i -g typescript
 ```
+
+```
+tsc --init
+```
+(to make ts.config)
 ```
 tsc (file ka nam)eg. tsc index.ts
-```
-```
-tsc --init (to make ts.config)
 ```
 ```
 npx create-react-app app_name --template typescript 
