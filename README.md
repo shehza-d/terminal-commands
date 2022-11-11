@@ -165,6 +165,19 @@ netlify logout
 npm i mongoose
 ``` -->
 
+## Material UI
+```
+npm install @mui/material @emotion/react @emotion/styled
+```
+```
+npm install @mui/material @mui/styled-engine-sc styled-components
+```
+```
+npm install @fontsource/roboto
+```
+```
+npm install @fontsource/roboto
+```
 ## TypeScript Commands 
 ```
 npm install typescript --save-dev
