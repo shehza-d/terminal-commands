@@ -39,6 +39,11 @@ git add *
 git commit -m "Pushing new Changes"
 
 git push origin main 
+
+git branch branch-name 
+
+git checkout branch-name
+
 ```
 
 first time
