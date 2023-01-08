@@ -9,6 +9,8 @@ If you want to contribute with a loooot of commands make a new .txt file / if yo
 <p text-align="center">
 
 [Git Commands](https://github.com/shehza-d/Terminal-Commands#git-commands)
+	
+[NEXT JS Commands](https://github.com/shehza-d/Terminal-Commands#commands)
 
 [React Commands](https://github.com/shehza-d/Terminal-Commands#react-commands)
 
@@ -52,6 +54,20 @@ first time
 	git config --global user.email "shehzaddiqbal@gmail.com”
 ```
 git status
+```
+
+<hr>
+
+## NEXT JS Commands
+
+
+```
+npx create-next-app
+```
+
+NEXT 13
+```
+npx create-next-app@latest --experimental-app
 ```
 
 <hr>
