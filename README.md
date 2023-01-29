@@ -1,5 +1,7 @@
 # Terminal-Commands
+
 ## All basic terminal commands in one place
+
 <h3 align="center">Show some ❤ by <img src="https://imgur.com/o7ncZFp.jpg" height=25px width=25px> some repositories</h3>
 
 You can contribute to this readme
@@ -9,7 +11,7 @@ If you want to contribute with a loooot of commands make a new .txt file / if yo
 <p text-align="center">
 
 [Git Commands](https://github.com/shehza-d/Terminal-Commands#git-commands)
-	
+
 [NEXT JS Commands](https://github.com/shehza-d/Terminal-Commands#commands)
 
 [React Commands](https://github.com/shehza-d/Terminal-Commands#react-commands)
@@ -76,7 +78,6 @@ git config --global credential.helper 'cache --timeout=2628288'
 
 ## NEXT JS Commands
 
-
 ```
 npx create-next-app
 ```
@@ -89,6 +90,7 @@ npx create-next-app@latest --experimental-app
 <hr>
 
 ## React Commands
+
 ~~~
 npx create-react-app myappname
 ~~~
@@ -110,6 +112,7 @@ npm install react-icons --save
 <hr>
 
 ## Node Commands
+
 ```
 node --version
 ```
@@ -134,6 +137,7 @@ nvm use 12.16.3
 <hr>
 
 ## ExpressJS Commands
+
 ```
 npm init -Y
 ```
@@ -218,6 +222,7 @@ npm i mongoose
 <hr>
 
 ## Material UI
+
 ```
 npm install @mui/material @emotion/react @emotion/styled
 ```
@@ -233,6 +238,7 @@ npm install @fontsource/roboto
 <hr>
 
 ## TypeScript Commands 
+
 ```
 npm install typescript --save-dev
 ```
@@ -253,12 +259,14 @@ npx create-react-app app_name --template typescript
 <hr>
 
 ## ( React + Redux + TypeScript ) Command
+
 ```
 npx create-react-app app_name --template redux-typescript 
 ```
 <hr>
 
 ## Important NPM Packages
+
 ```
 npm i mongoose
 ```
