@@ -18,6 +18,8 @@ If you want to contribute with a loooot of commands make a new .txt file / if yo
 
 [ExpressJS Commands](https://github.com/shehza-d/Terminal-Commands#expressjs-commands)
 
+[React-Native Commands](https://github.com/shehza-d/Terminal-Commands#react-native-commands)
+
 [FireBase Commands](https://github.com/shehza-d/Terminal-Commands#firebase-commands)
 
 [Netlify Commands](https://github.com/shehza-d/Terminal-Commands#netlify-commands)
@@ -129,6 +131,7 @@ phir
 ```
 nvm use 12.16.3
 ```
+<hr>
 
 ## ExpressJS Commands
 ```
@@ -142,8 +145,19 @@ npm init -Y
 ```
 npm i cors
 ```
+<hr>
 
-<br>
+## React-Native Commands
+```
+npx react-native init AwesomeProject
+```
+```
+npx react-native start
+```
+```
+npx react-native run-android
+```
+<hr>
 
 ## FireBase Commands
 ```
@@ -174,6 +188,8 @@ firebase --help
 ```
 firebase logout
 ```
+<hr>
+
 ## Netlify Commands
 ```
 npm install netlify-cli -g 
@@ -199,6 +215,7 @@ netlify logout
 ```
 npm i mongoose
 ``` -->
+<hr>
 
 ## Material UI
 ```
@@ -213,6 +230,8 @@ npm install @fontsource/roboto
 ```
 npm install @fontsource/roboto
 ```
+<hr>
+
 ## TypeScript Commands 
 ```
 npm install typescript --save-dev
@@ -231,11 +250,14 @@ tsc (file ka nam)eg. tsc index.ts
 ```
 npx create-react-app app_name --template typescript 
 ```
+<hr>
 
 ## ( React + Redux + TypeScript ) Command
 ```
 npx create-react-app app_name --template redux-typescript 
 ```
+<hr>
+
 ## Important NPM Packages
 ```
 npm i mongoose
