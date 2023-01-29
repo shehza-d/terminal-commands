@@ -33,28 +33,42 @@ If you want to contribute with a loooot of commands make a new .txt file / if yo
 ## Git Commands
 
 ```
-git --version
-```
-```
+git init
+
 git add *
 
 git commit -m "Pushing new Changes"
 
-git push origin main 
+git branch -m main
 
-git branch branch-name 
+git add remote url_here
 
-git checkout branch-name
-
+git push -u origin main 
 ```
 
-first time
 
+
+```
+git branch branch_name 
+```
+```
+git checkout branch_name
+```
+
+first time only
+
+```
 	git config --global user.name "Shehzad”
 	git config --global user.email "shehzaddiqbal@gmail.com”
 ```
+```
 git status
 ```
+to save git credential 
+```
+git config --global credential.helper 'cache --timeout=2628288'
+```
+
 
 <hr>
 
