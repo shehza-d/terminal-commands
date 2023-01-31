@@ -86,6 +86,9 @@ NEXT 13
 ```
 npx create-next-app@latest --experimental-app
 ```
+```
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion @chakra-ui/icons
+```
 
 <hr>
 
