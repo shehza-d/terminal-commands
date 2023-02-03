@@ -14,6 +14,8 @@ If you want to contribute with a loooot of commands make a new .txt file / if yo
 
 [NEXT JS Commands](https://github.com/shehza-d/Terminal-Commands#commands)
 
+[Tailwind Commands](https://github.com/shehza-d/Terminal-Commands#tailwindcss-commands)
+
 [React Commands](https://github.com/shehza-d/Terminal-Commands#react-commands)
 
 [Node Commands](https://github.com/shehza-d/Terminal-Commands#node-commands)
@@ -31,6 +33,7 @@ If you want to contribute with a loooot of commands make a new .txt file / if yo
 [Important NPM Packages](https://github.com/shehza-d/Terminal-Commands#important-npm-packages)
 
 [Linux COMMANDS](https://github.com/shehza-d/Terminal-Commands#linux-commands)
+
 </p>
 <hr>
 
@@ -47,14 +50,13 @@ git branch -m main
 
 git add remote url_here
 
-git push -u origin main 
+git push -u origin main
 ```
 
-
-
 ```
-git branch branch_name 
+git branch branch_name
 ```
+
 ```
 git checkout branch_name
 ```
@@ -65,14 +67,16 @@ first time only
 	git config --global user.name "Shehzad”
 	git config --global user.email "shehzaddiqbal@gmail.com”
 ```
+
 ```
 git status
 ```
-to save git credential 
+
+to save git credential
+
 ```
 git config --global credential.helper 'cache --timeout=2628288'
 ```
-
 
 <hr>
 
@@ -83,35 +87,55 @@ npx create-next-app
 ```
 
 NEXT 13
+
 ```
-npx create-next-app@latest --experimental-app
+npx create-next-app@latest --experimental-app --typescript --eslint
 ```
+
 ```
 npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion @chakra-ui/icons
 ```
 
 <hr>
 
+## Tailwind CSS Commands
+
+```
+npx tailwindcss init -p
+```
+
+```
+npm i -D tailwindcss postcss autoprefixer
+```
+
+<hr>
+
 ## React Commands
 
-~~~
+```
 npx create-react-app myappname
-~~~
+```
+
 (to create react project)
-~~~
+
+```
 npm start
-~~~
+```
+
 (to start app)
 
-	npm run build
+    npm run build
+
 (this build a final folder run this after project is finished)
 
 ```
 npm i react-router-dom
 ```
+
 ```
 npm install react-icons --save
 ```
+
 <hr>
 
 ## Node Commands
@@ -119,6 +143,7 @@ npm install react-icons --save
 ```
 node --version
 ```
+
 ```
 node fileKaName
 ```
@@ -126,17 +151,22 @@ node fileKaName
 ```
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
+
 ```
 npm i prompt-sync
 ```
+
 installing nvm
+
 ```
 nvm install (version) like (12.16.3)
 phir
 ```
+
 ```
 nvm use 12.16.3
 ```
+
 <hr>
 
 ## ExpressJS Commands
@@ -144,80 +174,100 @@ nvm use 12.16.3
 ```
 npm init -Y
 ```
-(to initinil node project is easy words to create package.json)  -y for default settings
 
-	npm install express
+(to initinil node project is easy words to create package.json) -y for default settings
+
+    npm install express
 
 (to initilize express project express ky liye)
+
 ```
 npm i cors
 ```
+
 <hr>
 
 ## React-Native Commands
+
 ```
 npx react-native init AwesomeProject
 ```
+
 ```
 npx react-native start
 ```
+
 ```
 npx react-native run-android
 ```
+
 <hr>
 
 ## FireBase Commands
+
 ```
 npm install -g firebase-tools
 ```
+
 (install CLI(also use this command to update CLI))
 
-	firebase login
+    firebase login
 
 (first time only)
 
-	firebase init
+    firebase init
 
 (initilize project(apne project ma run karna ye))
 
-	firebase deploy --only hosting
+    firebase deploy --only hosting
 
-firebase deploy other options  [(--only hosting),(--only database),(--only storage),(--only firestore),(--only functions)]
-
+firebase deploy other options [(--only hosting),(--only database),(--only storage),(--only firestore),(--only functions)]
 
 ```
 npm install firebase@9.12.1 --save
 ```
+
 fireStore
+
 ```
 firebase --help
 ```
+
 ```
 firebase logout
 ```
+
 <hr>
 
 ## Netlify Commands
+
 ```
-npm install netlify-cli -g 
+npm install netlify-cli -g
 ```
+
 (first time only)
+
 ```
 netlify login
 ```
+
 (first time only)
 !(netlify init)
+
 ```
 netlify deploy --prod
 ```
 
     netlify status
+
 ```
 netlify help
 ```
+
 ```
 netlify logout
 ```
+
 <!-- ## MongoDB Commands
 ```
 npm i mongoose
@@ -229,22 +279,27 @@ npm i mongoose
 ```
 npm install @mui/material @emotion/react @emotion/styled
 ```
+
 ```
 npm install @mui/material @mui/styled-engine-sc styled-components
 ```
+
 ```
 npm install @fontsource/roboto
 ```
+
 ```
 npm install @fontsource/roboto
 ```
+
 <hr>
 
-## TypeScript Commands 
+## TypeScript Commands
 
 ```
 npm install typescript --save-dev
 ```
+
 ```
 npm i -g typescript
 ```
@@ -252,20 +307,25 @@ npm i -g typescript
 ```
 tsc --init
 ```
+
 (to make ts.config)
+
 ```
 tsc (file ka nam)eg. tsc index.ts
 ```
+
 ```
-npx create-react-app app_name --template typescript 
+npx create-react-app app_name --template typescript
 ```
+
 <hr>
 
 ## ( React + Redux + TypeScript ) Command
 
 ```
-npx create-react-app app_name --template redux-typescript 
+npx create-react-app app_name --template redux-typescript
 ```
+
 <hr>
 
 ## Important NPM Packages
@@ -273,22 +333,25 @@ npx create-react-app app_name --template redux-typescript
 ```
 npm i mongoose
 ```
+
 <!-- Formik i Commands -->
+
 ```
 npm install formik --save
 ```
+
 <!-- ## yup i Commands -->
+
 ```
 npm i yup
 ```
+
 <hr>
 
-## Linux COMMANDS 
+## Linux COMMANDS
 
 1. cd
-dir or ls (to view files in directories)
-
-
+   dir or ls (to view files in directories)
 
 ## DotNet on Ubuntu for C#
 
@@ -296,13 +359,10 @@ sudo apt-get install wget apt-transport-https
 
 wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb
 
-sudo dpkg -i packages-microsoft-prod.deb 
+sudo dpkg -i packages-microsoft-prod.deb
 
 sudo apt-get update
 
-sudo apt-get install dotnet-sdk-5.0 
+sudo apt-get install dotnet-sdk-5.0
 
 dotnet --version
-
-
-
