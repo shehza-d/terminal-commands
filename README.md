@@ -125,21 +125,7 @@ npx create-react-app myappname
 (to create react project)
 
 ```
-npm start
-```
-
-(to start app)
-
-    npm run build
-
-(this build a final folder run this after project is finished)
-
-```
-npm i react-router-dom
-```
-
-```
-npm install react-icons --save
+npx create-react-app app_name --template redux-typescript
 ```
 
 <hr>
@@ -326,11 +312,13 @@ npx create-react-app app_name --template typescript
 
 <hr>
 
-## ( React + Redux + TypeScript ) Command
+## Prettier
 
 ```
-npx create-react-app app_name --template redux-typescript
+npx prettier --write .
 ```
+
+to format all files in a project (even without extension installed)
 
 <hr>
 
@@ -340,16 +328,20 @@ npx create-react-app app_name --template redux-typescript
 npm i mongoose
 ```
 
-<!-- Formik i Commands -->
-
 ```
-npm install formik --save
+npm i formik
 ```
-
-<!-- ## yup i Commands -->
 
 ```
 npm i yup
+```
+
+```
+npm i react-router-dom
+```
+
+```
+npm i react-icons
 ```
 
 <hr>
