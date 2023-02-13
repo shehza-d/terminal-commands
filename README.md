@@ -108,6 +108,12 @@ npx tailwindcss init -p
 npm i -D tailwindcss postcss autoprefixer
 ```
 
+to sort tailwind classes
+
+```
+npm install -D prettier prettier-plugin-tailwindcss
+```
+
 <hr>
 
 ## React Commands
