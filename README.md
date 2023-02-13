@@ -108,11 +108,11 @@ npx tailwindcss init -p
 npm i -D tailwindcss postcss autoprefixer
 ```
 
-to sort tailwind classes
+```
+npm i -D prettier-plugin-tailwindcss
+```
 
-```
-npm install -D prettier prettier-plugin-tailwindcss
-```
+to sort tailwind classes(prettier extension needed)
 
 <hr>
 
