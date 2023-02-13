@@ -349,7 +349,7 @@ npm i react-icons
 ## Linux COMMANDS
 
 1. cd
-   dir or ls (to view files in directories)
+   dir or ls (to view files in directories.)
 
 ## DotNet on Ubuntu for C#
 
