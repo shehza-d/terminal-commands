@@ -114,6 +114,10 @@ npm i -D prettier-plugin-tailwindcss
 
 to sort tailwind classes(prettier extension needed)
 
+```
+npx tailwindcss init  sdConfig --full
+```
+
 <hr>
 
 ## React Commands
