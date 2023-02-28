@@ -64,8 +64,8 @@ git checkout branch_name
 first time only
 
 ```
-	git config --global user.name "Shehzad”
-	git config --global user.email "shehzaddiqbal@gmail.com”
+git config --global user.name "Shehzad”
+git config --global user.email "shehzaddiqbal@gmail.com”
 ```
 
 ```
@@ -116,6 +116,22 @@ to sort tailwind classes(prettier extension needed)
 
 ```
 npx tailwindcss init  sdConfig --full
+```
+
+<hr>
+
+## TurboPack Commands
+
+```
+npx create-next-app@latest -e with-turbopack
+```
+
+```
+npx create-next-app --example with-turbopack
+```
+
+```
+next dev --turbo
 ```
 
 <hr>
