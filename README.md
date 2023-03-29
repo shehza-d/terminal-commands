@@ -342,6 +342,14 @@ to format all files in a project (even without extension installed)
 
 <hr>
 
+<!-- ## Sanity
+
+```
+npm create sanity@latest -- --template get-started --project key --dataset production --provider github
+```
+
+<hr> -->
+
 ## Important NPM Packages
 
 ```
