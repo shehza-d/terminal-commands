@@ -12,9 +12,9 @@ If you want to contribute with a loooot of commands make a new .txt file / if yo
 
 [Git Commands](https://github.com/shehza-d/Terminal-Commands#git-commands)
 
-[NEXT JS Commands](https://github.com/shehza-d/Terminal-Commands#commands)
+[NEXT JS Commands](https://github.com/shehza-d/Terminal-Commands#next-js-commands)
 
-[Tailwind Commands](https://github.com/shehza-d/Terminal-Commands#tailwindcss-commands)
+[Tailwind Commands](https://github.com/shehza-d/Terminal-Commands#tailwind-css-commands)
 
 [React Commands](https://github.com/shehza-d/Terminal-Commands#react-commands)
 
@@ -64,8 +64,8 @@ git checkout branch_name
 first time only
 
 ```
-git config --global user.name "Shehzad”
-git config --global user.email "shehzaddiqbal@gmail.com”
+git config --global user.name "Shehzad"
+git config --global user.email "shehzaddiqbal@gmail.com"
 ```
 
 ```
@@ -157,23 +157,18 @@ node --version
 ```
 
 ```
-node fileKaName
+node index.js
 ```
 
-```
-curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
-```
-
-```
-npm i prompt-sync
-```
+(to execute a file e.g node fileKaName.js)
 
 installing nvm
 
 ```
 nvm install (version) like (12.16.3)
-phir
 ```
+
+phir
 
 ```
 nvm use 12.16.3
@@ -194,7 +189,7 @@ npm init -Y
 (to initilize express project express ky liye)
 
 ```
-npm i cors
+node index.mjs
 ```
 
 <hr>
@@ -236,17 +231,11 @@ npm install -g firebase-tools
 firebase deploy other options [(--only hosting),(--only database),(--only storage),(--only firestore),(--only functions)]
 
 ```
-npm install firebase@9.12.1 --save
+npm install firebase@latest --save
 ```
-
-fireStore
 
 ```
 firebase --help
-```
-
-```
-firebase logout
 ```
 
 <hr>
@@ -300,20 +289,12 @@ npm install @mui/material @mui/styled-engine-sc styled-components
 npm install @fontsource/roboto
 ```
 
-```
-npm install @fontsource/roboto
-```
-
 <hr>
 
 ## TypeScript Commands
 
 ```
-npm install typescript --save-dev
-```
-
-```
-npm i -g typescript
+npm install typescript --save-dev --global
 ```
 
 ```
@@ -323,8 +304,10 @@ tsc --init
 (to make ts.config)
 
 ```
-tsc (file ka nam)eg. tsc index.ts
+tsc index.ts
 ```
+
+(file name to compile a file)
 
 ```
 npx create-react-app app_name --template typescript
@@ -353,23 +336,7 @@ npm create sanity@latest -- --template get-started --project key --dataset produ
 ## Important NPM Packages
 
 ```
-npm i mongoose
-```
-
-```
-npm i formik
-```
-
-```
-npm i yup
-```
-
-```
-npm i react-router-dom
-```
-
-```
-npm i react-icons
+npm i mongoose cors formik yup react-router-dom react-icons prompt-sync
 ```
 
 <hr>
@@ -378,6 +345,10 @@ npm i react-icons
 
 1. cd
    dir or ls (to view files in directories.)
+
+```
+sudo apt install node npm git code
+```
 
 ## DotNet on Ubuntu for C#
 
