@@ -78,6 +78,18 @@ to save git credential
 git config --global credential.helper 'cache --timeout=2628288'
 ```
 
+`.gitignore` will prevent untracked files from being added (without an add -f) to the set of files tracked by Git. However, Git will continue to track any files that are already being tracked.
+<https://stackoverflow.com/a/1274447/18210334>
+To stop tracking a file, we must remove it from the index:
+```bash
+git rm --cached <file>
+```
+
+To remove a folder and all files in the folder recursively:
+```bash
+git rm -r --cached <folder>
+```
+
 <hr>
 
 ## NEXT JS Commands
