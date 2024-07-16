@@ -362,6 +362,10 @@ npm i mongoose cors formik yup react-router-dom react-icons prompt-sync
 sudo apt install node npm git code
 ```
 
+```
+sudo snap install vlc code telegram-desktop chromium gimp && sudo snap install shotcut --classic
+```
+
 ## DotNet on Ubuntu for C#
 
 sudo apt-get install wget apt-transport-https
