@@ -355,6 +355,11 @@ npm i mongoose cors formik yup react-router-dom react-icons prompt-sync
 
 ## Linux COMMANDS
 
+show wifi passwords linux
+```
+nmcli device wifi show-password
+```
+
 1. cd
    dir or ls (to view files in directories.)
 
